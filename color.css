@@ -43,7 +43,7 @@
 /* more settings buttons */
 .lookFilled-1Gx00P.colorBrand-3pXr91, .side-8zPYf6 .itemSelected-1qLhcL, theme-dark .selectedLink-3dsNZ6, #bd-settings-sidebar .ui-tab-bar-item.selected, .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {background-color: #36393f;}
 /* more link colors */
-.lookOutlined-3sRXeN.colorBrand-3pXr91:hover {border-color: rgba(114, 218, 114, 0.6);}
+.lookOutlined-3sRXeN.colorBrand-3pXr91:hover {border-color: #fff;}
 .lookOutlined-3sRXeN.colorBrand-3pXr91 {
     border-color: #111111;
     color:#111111

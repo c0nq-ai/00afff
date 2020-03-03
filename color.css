@@ -45,8 +45,8 @@
 /* more link colors */
 .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {border-color: rgba(114, 218, 114, 0.6);}
 .lookOutlined-3sRXeN.colorBrand-3pXr91 {
-    border-color: rgba(114, 218, 133, 0.3);
-    color: #99dfff;
+    border-color: rgb(0, 0, 0);
+    
 }
 /* AKA Button */
 .aka-1mqp34 {background: #272728;}
@@ -73,7 +73,7 @@
 /* Changes color of mentions normal and hover */
 .theme-dark .wrapper-3WhCwL {
     background-color: rgba(114, 218, 145, 0.1);
-    color: #00afff;
+    color: #ff0000;
 }
 .theme-dark .wrapperHover-1GktnT:hover {
     background-color: rgba(59, 253, 26, 0.30);

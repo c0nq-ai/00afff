@@ -46,7 +46,7 @@
 .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {border-color: rgba(114, 218, 114, 0.6);}
 .lookOutlined-3sRXeN.colorBrand-3pXr91 {
     border-color: rgba(114, 218, 133, 0.3);
-    color: #72da84;
+    color: #99dfff;
 }
 /* AKA Button */
 .aka-1mqp34 {background: #272728;}
@@ -66,7 +66,7 @@
 .theme-dark .embedInner-1-fpTo {border-color: rgba(46,48,54,.6);}
 .theme-dark .embedPill-1Zntps {background-color: #1b1c1f;}
 /* Changes color of all links*/
-.theme-dark .topic-2QX7LI a, .theme-dark .markup-2BOw-j a, .theme-dark .embedTitleLink-1Zla9e, theme-dark .anchor-3Z-8Bb, theme-dark a {color: #00afff !important;}
+.theme-dark .topic-2QX7LI a, .theme-dark .markup-2BOw-j a, .theme-dark .embedTitleLink-1Zla9e, theme-dark .anchor-3Z-8Bb, theme-dark a {color: #3bfd1a !important;}
 /* upload buttons */
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary, .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {background-color: #369c24!important;}
 .uploadModal-2ifh8j .footer-3mqk7D .button {background-color: #333233;}
